@@ -60,7 +60,7 @@ app.put("/canciones/artista/:id", canciones.reproducirCancion);
 // Para acceder a cada funcion de artistas, se debe hacer de la siguiente forma:
 // artistas.getArtistas;
 // artistas.getArtista;
-// ...
+
 
 // Albumes
 // Completar con las rutas de albumes
